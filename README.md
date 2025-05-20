@@ -11,6 +11,4 @@ HBnB is a complete web application, integrating database storage, a back-end API
 TO BE ADDED SOON...
 
 ## Authors :black_nib:
-* **Emmanuel Kwizera** <[Emmanuel-kwizera](https://github.com/Emmanuel-kwizera)> <e.kwizera1@alustudent.com>
-
-* **Junior Rwaka** <[jrwaka](https://github.com/jrwaka)> <j.rwaka@alustudent.com>
+* **Agertu Diriba** <[AgertuD](https://github.com/AgertuD)> <a.aliko@alustudent.com>
